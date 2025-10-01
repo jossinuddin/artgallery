@@ -1,2 +1,3 @@
-# artgallery
-artgallery
+
+# ArtGallery
+Коллекция описаний картин и искусства.
